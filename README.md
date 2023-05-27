@@ -9,7 +9,10 @@ Tested on [MiyooCFW][miyoocfw]
 ![screenshots](ss/ss.png)
 
 </br>
-Special Thanks to [mrwasterbr][mrwasterbr], [fgl82][fgl82] and everyone who created all the icons and artworks. 
+
+Special Thanks to [mrwasterbr][mrwasterbr_prf], 
+[fgl82][fgl82_prf] 
+and everyone who created all the icons and artworks. 
 
 </br>
 </br>
@@ -28,5 +31,5 @@ Special Thanks to [mrwasterbr][mrwasterbr], [fgl82][fgl82] and everyone who crea
 [simplemenu]:https://github.com/fgl82/simplemenu
 [miyoocfw]:https://github.com/TriForceX/MiyooCFW
 [download]:http://download
-[mrwasterbr]:https://github.com/mrwasterbr
-[fgl82]:https://github.com/fgl82
+[mrwasterbr_prf]:https://github.com/mrwasterbr
+[fgl82_prf]:https://github.com/fgl82
