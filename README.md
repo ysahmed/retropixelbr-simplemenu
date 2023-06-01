@@ -30,6 +30,6 @@ and everyone who created all the icons and artworks.
 [bigcody]:https://github.com/fgl82/BigCody
 [simplemenu]:https://github.com/fgl82/simplemenu
 [miyoocfw]:https://github.com/TriForceX/MiyooCFW
-[download]:https://github.com/ysahmed/retropixelbr-simplemenu/releases/tag/v0.1.1
+[download]:https://github.com/ysahmed/retropixelbr-simplemenu/releases
 [mrwasterbr_prf]:https://github.com/mrwasterbr
 [fgl82_prf]:https://github.com/fgl82
